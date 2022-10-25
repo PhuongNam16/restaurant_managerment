@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fe_restuarant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/restuarant-dev_fe/fe_restuarant.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

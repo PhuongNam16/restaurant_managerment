@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="284bf46f-ec5a-4b39-9956-94ddc6481a94" name="Changes" comment="restaurant">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fe_restuarant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/restaurant managerment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.husky/post-checkout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.husky/post-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.lintstagedrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/docker-compose.dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/docker-compose.prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/docker-compose.test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/ecosystem.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/morgan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/roles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/config/tokens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/bill.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/book.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/comment.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/commentDish.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/dish.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/docs/components.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/docs/swaggerDef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/middlewares/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/middlewares/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/middlewares/rateLimiter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/middlewares/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/bill.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/book.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/comment.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/commentDish.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/dish.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/plugins/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/plugins/paginate.plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/plugins/toJSON.plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/token.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/models/user.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/bill.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/book.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/commentDishs.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/comments.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/dish.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/restaurant/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/v1/auth.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/v1/docs.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/v1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/routes/v1/user.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/bill.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/book.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/comment.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/commentDish.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/dish.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/email.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/token.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/socket/face/changePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/socket/face/checkface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/socket/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/utils/ApiError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/utils/catchAsync.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/utils/pick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/utils/socketUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/auth.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/bill.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/book.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/comment.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/commentDish.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/custom.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/dish.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/src/validations/user.validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/fixtures/token.fixture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/fixtures/user.fixture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/integration/auth.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/integration/docs.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/integration/user.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/unit/middlewares/error.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/unit/models/plugins/paginate.plugin.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/unit/models/plugins/toJSON.plugin.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/unit/models/user.model.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/tests/utils/setupTestDB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_be_2/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/fe_restuarant.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/actions/actionTpyes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/IntroduceEndComment/component/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/IntroduceEndComment/component/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/IntroduceEndComment/component/Comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/IntroduceEndComment/component/Introduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/IntroduceEndComment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/chart/LineChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/chart/PieChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/chart/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/table/TableComment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/admin/table/TableDish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/book/component/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/book/component/FormBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/book/component/formBook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/book/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/dish/component/Dish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/dish/component/dish.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/dish/component/restuarant-dev_be.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/dish/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/menu/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/menu/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/ImageHover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/Loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/SliderShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/component/unit/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/avata1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/background-introduce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/background-introduce1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/background-introduce2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/dish1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/dislike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/logo-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/medu-dish/menu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/medu-dish/menu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/medu-dish/menu3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/medu-dish/menu4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/medu-dish/menu5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/menu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/star_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/image/table-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/reducers/dataTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/store/dataTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restuarant-dev_fe/src/store/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gd8aE7uw6ED1vOU4id2W95Eo49" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284bf46f-ec5a-4b39-9956-94ddc6481a94" name="Changes" comment="" />
+      <created>1666707161501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666707161501</updated>
+      <workItem from="1666707163259" duration="856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restaurant" />
+    <option name="LAST_COMMIT_MESSAGE" value="restaurant" />
+  </component>
+</project>
