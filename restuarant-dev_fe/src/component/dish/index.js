@@ -1,8 +1,9 @@
-import Dish from "./component/Dish"
+import React from "react";
+import Dish from "./component/Dish";
 function DishIndex() {
   return (
     <div className="App">
-        <Dish></Dish>
+      <Dish></Dish>
     </div>
   );
 }

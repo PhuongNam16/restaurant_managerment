@@ -1,8 +1,9 @@
-import Book from "./component/Book"
+import React from "react";
+import Book from "./component/Book";
 function BookIndex() {
   return (
     <div className="App">
-        <Book></Book>
+      <Book></Book>
     </div>
   );
 }

@@ -1,11 +1,10 @@
+import React from "react";
 import Introduce from "./component/Introduce";
-import Comment from "./component/Comment";
-import ImageHover from "../unit/ImageHover"
 function IntroduceIndex() {
   return (
     <div className="App">
-        <Introduce></Introduce>
-        {/* <ImageHover></ImageHover> */}
+      <Introduce></Introduce>
+      {/* <ImageHover></ImageHover> */}
     </div>
   );
 }

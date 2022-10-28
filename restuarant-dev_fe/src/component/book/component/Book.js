@@ -2,12 +2,11 @@ import background from "../../../image/background.jpg";
 import table_img from "../../../image/table-img.jpg";
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { DatePicker, Space } from "antd";
+import { DatePicker } from "antd";
 import moment from "moment";
 import "antd/dist/antd.css";
-import { Stage, Layer, Star, Text } from "react-konva";
+import { Stage, Layer, Star } from "react-konva";
 import { callApiGetDataTable } from "../../../actions/index";
-import Loading from "../../unit/Loading";
 import { useNavigate } from "react-router-dom";
 
 function generateShapes() {
@@ -142,7 +141,7 @@ function App() {
       {/* {status ?
                 <Loading></Loading>
                 : */}
-      <div className="book" >
+      <div className="book">
         {/* <div className="">
 
                     </div> */}
